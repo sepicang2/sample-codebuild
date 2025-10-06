@@ -1,0 +1,11 @@
+{
+  "name": "my-nodejs-app",
+  "version": "1.0.0",
+  "description": "Sample Node.js app for AWS CodePipeline/CodeBuild/CodeDeploy",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "build": "echo 'No build step needed'"
+  },
+  "dependencies": {}
+}
